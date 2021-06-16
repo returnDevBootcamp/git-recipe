@@ -1,15 +1,15 @@
-What you need
-=============
+# What you need
 
-* 1/4 cup sugar
-* 1/4 cup flour
-* 2 tbsp cocoa
-* A pinch of salt
-* 2 tbsp olive oil
-* 3 tbsp water
+The chef is Abdullah R.
 
-Steps
-=====
+- 1/4 cup sugar
+- 1/4 cup flour
+- 2 tbsp cocoa
+- A pinch of salt
+- 2 tbsp olive oil
+- 3 tbsp water
+
+# Steps
 
 1. Add all the dry ingredients to a mug.
 2. Add the oil and water.
