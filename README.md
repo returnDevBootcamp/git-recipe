@@ -5,7 +5,7 @@ To complete this homework you should
 1. Fork this repository
 2. Clone your repository
 3. Open vsCode and create a new branch called `chef`
-4. Add your name as the chef in the `recipe.md` file and save it in the `chef` branch. Like this 
+4. Add your name as the chef in the `recipe.md` file and save it in the `chef` branch.Like this 👇🏾👇🏾
 ![](/chef.PNG?raw=true)
 5. Push the `main` and `chef` branch to your repository
 6. Make a pull request
