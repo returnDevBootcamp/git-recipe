@@ -4,7 +4,7 @@ What you need
 * 1/4 cup sugar
 * 1/4 cup flour
 * 2 tbsp cocoa
-* A pinch of salt
+* A pinh of salt
 * 2 tbsp olive oil
 * 3 tbsp water
 
